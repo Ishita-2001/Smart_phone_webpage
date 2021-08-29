@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Task of WEB BATTLE UEM! Round 1
 
-You can use the [editor on GitHub](https://github.com/Ishita-2001/Smart_phone_webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here i was provided the task of making a website for a product ( example: Smart Phone ). In this website, there are 5 inter linked pages for home, about, contact, features and gallery. Every page is mobile responsive.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Used Tech:
 
-### Markdown
+React Js.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Steps:
 
-```markdown
-Syntax highlighted code block
+Made a simple navbar, where all the inter linked pages are present,like About,Contact,Home,Gallery and Features.In home page a simple description of our website.In About us page one can see about our company.For Connect with the company officially, go through Contact page.Gallery is full of some best collections of our store.And lastly in feature page all the details and specifications are given about products.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### © 2021 Ishita Pahari
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ishita-2001/Smart_phone_webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Thank You! Show some :heart: if you like it!
